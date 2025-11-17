@@ -1,4 +1,4 @@
-# Sample Penetration Test Report: OWASP Juice Shop
+# Penetration Test Report: OWASP Juice Shop
 
 * **Target:** OWASP Juice Shop (hosted at `juice-shop.herokuapp.com`)
 * **Purpose:** To demonstrate penetration testing methodology, vulnerability documentation, and professional reporting skills.
